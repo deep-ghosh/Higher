@@ -18,16 +18,7 @@
   </div>
 </div>
 
-```solidity
-// SPDX-License-Identifier: MIT
-contract Higher {
-    event ContentPublished(address indexed creator, uint256 tokenId, string contentHash);
-    
-    function publishContent(string calldata _ipfsHash) external returns (uint256) {
-        // Publishing logic that puts creators first
-    }
-}
-```
+
 
 ## 🔥 BUIDL THE UNCENSORABLE FUTURE
 
