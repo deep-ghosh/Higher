@@ -1,193 +1,254 @@
 <div align="center">
+  <br />
   
-  ![Higher Banner](/assets/higher-banner.png)
+  <img src="assets/higher-logo.png" alt="Higher Logo" width="180" height="180" style="border-radius:50%;" />
   
-  # HIGHER
-
-  <h3>Decentralized Content Publishing & Monetization Platform</h3>
-
-  [![Live Site](https://img.shields.io/badge/Live_Site-Visit_Higher-5D3FD3?style=for-the-badge&logo=vercel&logoColor=white)](https://higher-bice.vercel.app/)
-  [![License](https://img.shields.io/badge/License-MIT-22272e?style=for-the-badge&logo=github)](LICENSE)
+  <h1>
+    <img src="assets/blockchain-icon.png" alt="Blockchain Icon" width="30" height="30" />
+    <span style="background: linear-gradient(90deg, #9333EA 0%, #4F46E5 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">HIGHER</span>
+  </h1>
   
-  <br/>
+  <p><strong>Decentralized Content Publishing & Monetization Platform</strong></p>
   
-  <p>
-    <strong>Own Your Content. Monetize Your Ideas. No Intermediaries.</strong>
+  <div>
+    <a href="https://higher-bice.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/LIVE_DEMO-5D3FD3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/WEB3-POWERED-6366F1?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3 Powered" />
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/100%25-DECENTRALIZED-22C55E?style=for-the-badge&logo=ipfs&logoColor=white" alt="100% Decentralized" />
+    </a>
+  </div>
+  
+  <br />
+  
+  <p align="center">
+    <img src="assets/higher-banner.png" alt="Higher Platform Banner" width="100%" />
   </p>
-  
 </div>
 
----
+<br />
 
 <div align="center">
-  <img src="/assets/blockchain-content.png" alt="Blockchain Content" width="800px" />
+  <img src="assets/divider.png" alt="Divider" width="100%" height="8" />
 </div>
 
-## 🔗 Web3-Native Content Platform
+<br />
 
-Higher is built on the fundamental belief that **creators should own their content** - not platforms. We've created a fully decentralized ecosystem where:
+## 🌟 Project Vision
 
-- 🌐 **Content lives on-chain** - Immutable, censorship-resistant, and permanent
-- 🔐 **Creators retain 100% ownership** - No platform intermediaries
-- 💰 **Direct monetization** - Peer-to-peer with zero platform fees
-- 🧠 **AI-assisted creation** - Without compromising ownership
-
-<div align="center">
-  
-  \`\`\`mermaid
-  graph TD
-    A[Creator] -->|Writes Content| B[Higher Platform]
-    B -->|Stores on| C[IPFS]
-    B -->|Mints as| D[NFT on Ethereum]
-    D -->|Owned by| A
-    E[Reader] -->|Pays directly to| A
-    B -->|Zero platform fees| A
-  \`\`\`
-  
-</div>
-
-## ✨ Core Features
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📝 True Decentralization</h3>
-      <ul>
-        <li>Content stored on IPFS and Ethereum</li>
-        <li>No central servers or content control</li>
-        <li>Resistant to censorship and takedowns</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🔖 NFT Publishing</h3>
-      <ul>
-        <li>Mint articles as ERC-721 tokens</li>
-        <li>Provable ownership and authenticity</li>
-        <li>Timestamp ideas on-chain forever</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>💸 Direct Monetization</h3>
-      <ul>
-        <li>Set your own pricing models</li>
-        <li>Receive 100% of your earnings</li>
-        <li>Multiple revenue streams (subscriptions, one-time)</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🤖 AI-Assisted Creation</h3>
-      <ul>
-        <li>Generate ideas or refine content</li>
-        <li>AI tools that respect your ownership</li>
-        <li>Enhance productivity without compromising control</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## 🛠️ Web3 Architecture
-
-Higher leverages blockchain technology to create a trustless content ecosystem:
-
-<div align="center">
-  <img src="/assets/architecture.png" alt="Higher Architecture" width="800px" />
-</div>
-
-### Technology Stack
-
-| Layer | Technology | Purpose |
-|-------|------------|---------|
-| **Frontend** | Next.js + TailwindCSS | Responsive, modern UI/UX |
-| **Blockchain** | Ethereum | Smart contracts, NFT minting, ownership |
-| **Storage** | IPFS | Decentralized content storage |
-| **Authentication** | Wallet Connect | Self-sovereign identity |
-| **AI Layer** | OpenAI API | Content assistance while preserving ownership |
-| **Indexing** | The Graph | Efficient on-chain data querying |
-
-## 🚀 Getting Started
-
-\`\`\`bash
-# Clone the repository
-git clone https://github.com/yourusername/higher.git
-
-# Install dependencies
-cd higher
-npm install
-
-# Set up environment variables
-cp .env.example .env.local
-# Add your Web3 provider and IPFS keys
-
-# Run the development server
-npm run dev
-\`\`\`
-
-## 📊 Web3 Ecosystem Integration
-
-Higher seamlessly integrates with the broader Web3 ecosystem:
-
-- 🔄 **Cross-chain compatibility** - Initially on Ethereum, with plans for Polygon, Optimism
-- 🤝 **DAO governance** - Community-driven protocol decisions
-- 🔍 **On-chain analytics** - Transparent metrics for creators and readers
-- 🌉 **Composable with other dApps** - API for integration with wallets and marketplaces
-
-## 👨‍💻 Team
-
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
   <table>
     <tr>
-      <td align="center"><img src="https://github.com/identicons/deepghosh.png" width="100px" alt="Deep Ghosh"/><br/><b>Deep Ghosh</b><br/>Team Lead & Web3 Advocate</td>
-      <td align="center"><img src="https://github.com/identicons/jitdebnath.png" width="100px" alt="Jit Debnath"/><br/><b>Jit Debnath</b><br/>Frontend Developer</td>
-      <td align="center"><img src="https://github.com/identicons/prathamjaiswal.png" width="100px" alt="Pratham Jaiswal"/><br/><b>Pratham Jaiswal</b><br/>Blockchain Developer</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://github.com/identicons/krishgupta.png" width="100px" alt="Krish Gupta"/><br/><b>Krish Gupta</b><br/>UX & Smart Contract Dev</td>
-      <td align="center"><img src="https://github.com/identicons/rohitkundu.png" width="100px" alt="Rohit Kundu"/><br/><b>Rohit Kundu</b><br/>QA Engineer</td>
-      <td align="center"><img src="https://github.com/identicons/community.png" width="100px" alt="You"/><br/><b>You?</b><br/>Join Our Community</td>
+      <td width="60%" style="border: none;">
+        <h3>The Future of Content is Creator-Owned</h3>
+        <p>
+          Higher is built on a revolutionary premise: <strong>creators should fully own their content</strong>, not platforms.
+          We've created a fully decentralized ecosystem where your content lives on the blockchain, 
+          is permanently accessible, and can be monetized without intermediaries taking a cut.
+        </p>
+        <p>
+          <strong>Higher isn't just a platform — it's a movement toward content sovereignty.</strong>
+        </p>
+      </td>
+      <td width="40%" style="border: none;">
+        <img src="assets/vision-graphic.png" alt="Vision Graphic" width="100%" />
+      </td>
     </tr>
   </table>
 </div>
 
+<br />
+
+## ⛓️ Web3 Architecture
+
+<div align="center">
+  <img src="assets/architecture-diagram.png" alt="Higher Architecture" width="90%" />
+</div>
+
+<br />
+
+## 🔥 Core Features
+
+<table>
+  <tr>
+    <td width="33%" align="center" style="padding: 20px;">
+      <img src="assets/decentralization-icon.png" alt="Decentralization" width="80" height="80" />
+      <h3>True Decentralization</h3>
+      <p>Content stored on IPFS & Ethereum. No central servers or content control. Resistant to censorship.</p>
+    </td>
+    <td width="33%" align="center" style="padding: 20px;">
+      <img src="assets/nft-icon.png" alt="NFT Publishing" width="80" height="80" />
+      <h3>NFT Publishing</h3>
+      <p>Mint articles as ERC-721 tokens with provable ownership and authenticity. Timestamp ideas forever.</p>
+    </td>
+    <td width="33%" align="center" style="padding: 20px;">
+      <img src="assets/ai-icon.png" alt="AI Assisted" width="80" height="80" />
+      <h3>AI-Assisted Creation</h3>
+      <p>Generate or refine content using AI tools while maintaining full ownership of the final work.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" style="padding: 20px;">
+      <img src="assets/monetization-icon.png" alt="Monetization" width="80" height="80" />
+      <h3>Direct Monetization</h3>
+      <p>Set your own price, earn directly from your audience. Zero platform fees. All profits go to you.</p>
+    </td>
+    <td width="33%" align="center" style="padding: 20px;">
+      <img src="assets/marketplace-icon.png" alt="Marketplace" width="80" height="80" />
+      <h3>P2P Marketplace</h3>
+      <p>Buy, sell, or trade content NFTs. Fully on-chain, open, and transparent marketplace.</p>
+    </td>
+    <td width="33%" align="center" style="padding: 20px;">
+      <img src="assets/insights-icon.png" alt="Web3 Insights" width="80" height="80" />
+      <h3>Web3 Insights</h3>
+      <p>Track trending tokens, DAO proposals, and protocol stats. Understand the ecosystem.</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## 🛠️ Technology Stack
+
+<div align="center">
+  <table>
+    <tr>
+      <th style="text-align: center; background-color: #1E293B; color: white;">Layer</th>
+      <th style="text-align: center; background-color: #1E293B; color: white;">Technology</th>
+      <th style="text-align: center; background-color: #1E293B; color: white;">Purpose</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/frontend-icon.png" alt="Frontend" width="40" height="40" /><br/>Frontend</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /><br/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+      </td>
+      <td>Responsive, modern UI/UX with server-side rendering for optimal performance</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/blockchain-icon.png" alt="Blockchain" width="40" height="40" /><br/>Blockchain</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+      </td>
+      <td>Smart contracts for NFT minting, ownership verification, and secure transactions</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/storage-icon.png" alt="Storage" width="40" height="40" /><br/>Storage</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />
+      </td>
+      <td>Decentralized content storage ensuring censorship resistance and permanence</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/ai-small-icon.png" alt="AI" width="40" height="40" /><br/>AI Layer</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+      </td>
+      <td>Content assistance while preserving creator ownership and rights</td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
 ## 🌐 Decentralization Roadmap
 
 <div align="center">
-  
-  \`\`\`mermaid
-  gantt
-    title Higher Decentralization Roadmap
-    dateFormat  YYYY-MM
-    section Phase 1
-    MVP Launch with IPFS Storage           :2023-01, 3m
-    ERC-721 Content NFTs                   :2023-02, 2m
-    section Phase 2
-    DAO Governance Implementation          :2023-04, 4m
-    Multi-chain Support                    :2023-06, 3m
-    section Phase 3
-    Decentralized Frontend (IPFS)          :2023-09, 2m
-    Full Protocol Decentralization         :2023-10, 6m
-  \`\`\`
-  
+  <img src="assets/roadmap.png" alt="Decentralization Roadmap" width="90%" />
 </div>
+
+<br />
+
+## 👨‍💻 Team Behind Higher
+
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <div style="width: 200px; text-align: center; margin-bottom: 30px;">
+      <div style="width: 150px; height: 150px; margin: 0 auto; border-radius: 50%; overflow: hidden; border: 3px solid #8B5CF6;">
+        <img src="assets/team-deep.png" alt="Deep Ghosh" width="150" height="150" />
+      </div>
+      <h3 style="margin: 10px 0 5px 0; color: #8B5CF6;">Deep Ghosh</h3>
+      <p style="margin: 0; font-size: 14px;"><strong>Team Lead & Web3 Advocate</strong></p>
+      <div style="margin-top: 10px;">
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="22" /></a>
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="22" /></a>
+      </div>
+    </div>
+    
+    <div style="width: 200px; text-align: center; margin-bottom: 30px;">
+      <div style="width: 150px; height: 150px; margin: 0 auto; border-radius: 50%; overflow: hidden; border: 3px solid #8B5CF6;">
+        <img src="assets/team-jit.png" alt="Jit Debnath" width="150" height="150" />
+      </div>
+      <h3 style="margin: 10px 0 5px 0; color: #8B5CF6;">Jit Debnath</h3>
+      <p style="margin: 0; font-size: 14px;"><strong>Frontend Developer</strong></p>
+      <div style="margin-top: 10px;">
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="22" /></a>
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="22" /></a>
+      </div>
+    </div>
+    
+    <div style="width: 200px; text-align: center; margin-bottom: 30px;">
+      <div style="width: 150px; height: 150px; margin: 0 auto; border-radius: 50%; overflow: hidden; border: 3px solid #8B5CF6;">
+        <img src="assets/team-pratham.png" alt="Pratham Jaiswal" width="150" height="150" />
+      </div>
+      <h3 style="margin: 10px 0 5px 0; color: #8B5CF6;">Pratham Jaiswal</h3>
+      <p style="margin: 0; font-size: 14px;"><strong>Blockchain Developer</strong></p>
+      <div style="margin-top: 10px;">
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="22" /></a>
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="22" /></a>
+      </div>
+    </div>
+    
+    <div style="width: 200px; text-align: center; margin-bottom: 30px;">
+      <div style="width: 150px; height: 150px; margin: 0 auto; border-radius: 50%; overflow: hidden; border: 3px solid #8B5CF6;">
+        <img src="assets/team-krish.png" alt="Krish Gupta" width="150" height="150" />
+      </div>
+      <h3 style="margin: 10px 0 5px 0; color: #8B5CF6;">Krish Gupta</h3>
+      <p style="margin: 0; font-size: 14px;"><strong>UX Engineer & Smart Contract Dev</strong></p>
+      <div style="margin-top: 10px;">
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="22" /></a>
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="22" /></a>
+      </div>
+    </div>
+    
+    <div style="width: 200px; text-align: center; margin-bottom: 30px;">
+      <div style="width: 150px; height: 150px; margin: 0 auto; border-radius: 50%; overflow: hidden; border: 3px solid #8B5CF6;">
+        <img src="assets/team-rohit.png" alt="Rohit Kundu" width="150" height="150" />
+      </div>
+      <h3 style="margin: 10px 0 5px 0; color: #8B5CF6;">Rohit Kundu</h3>
+      <p style="margin: 0; font-size: 14px;"><strong>QA Engineer & Bug Hunter</strong></p>
+      <div style="margin-top: 10px;">
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="22" /></a>
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="22" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br />
 
 ## 📢 Join the Movement
 
-Higher isn't just a platform—it's a movement toward true content sovereignty in the digital age.
-
 <div align="center">
-  <a href="https://higher-bice.vercel.app/"><img src="https://img.shields.io/badge/Visit-Live_Site-5D3FD3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site" /></a>
-  <a href="https://twitter.com/higher_web3"><img src="https://img.shields.io/badge/Follow-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://discord.gg/higher"><img src="https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <div style="background: linear-gradient(135deg, rgba(139, 92, 246, 0.1), rgba(79, 70, 229, 0.1)); padding: 30px; border-radius: 10px; margin: 20px 0;">
+    <h2 style="margin-top: 0;">The Future of Content is Creator-Owned</h2>
+    <p style="font-size: 18px; max-width: 700px; margin: 20px auto;">
+      Publish with freedom. Earn with fairness. Thrive with decentralization.
+    </p>
+    <div style="margin-top: 25px;">
+      <a href="https://higher-bice.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/EXPLORE_HIGHER-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white" alt="Explore Higher" />
+      </a>
+    </div>
+  </div>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <h3>The Future of Content is Creator-Owned</h3>
-  <p>Publish with freedom. Earn with fairness. Thrive with decentralization.</p>
+  <img src="assets/footer-banner.png" alt="Higher Footer Banner" width="100%" />
+  <p>© 2023 Higher | MIT License</p>
 </div>
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
