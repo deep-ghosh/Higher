@@ -122,7 +122,7 @@ Governance rights and protocol fee distribution for all $HIGHER token holders. F
 ## 👾 DEV TEAM
 
 ```
-Deep Ghosh ─── Protocol Lead & Web3 Advocate
+Deep Ghosh ─── Protocol Lead & Tokenomics
 Jit Debnath ─── Frontend & dApp Engineering
 Pratham Jaiswal ─── Smart Contract Development
 Krish Gupta ─── UX Engineering & Contract Security
