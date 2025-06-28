@@ -9,10 +9,10 @@
     <a href="https://higher-woad.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/DAPP-5D3FD3?style=for-the-badge&logo=ethereum&logoColor=white" alt="Live DApp" />
     </a>
-    <a href="#" target="_blank">
+    <a href="https://higher-woad.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/EVM_COMPATIBLE-6366F1?style=for-the-badge&logo=ethereum&logoColor=white" alt="EVM Compatible" />
     </a>
-    <a href="#" target="_blank">
+    <a href="https://higher-woad.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/IPFS_POWERED-22C55E?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS Powered" />
     </a>
   </div>
