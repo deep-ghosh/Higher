@@ -72,7 +72,7 @@ Edit
 | Liquidity Provision                | 20%                         |
 | Early Adopters                     | 10%                         |
 
-The <strong>$HIGHER</strong> token powers governance and fee distribution. Full breakdown available in our [Gitbook](https://example.com).
+
 
 ---
 
